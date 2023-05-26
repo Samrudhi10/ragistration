@@ -1,0 +1,14 @@
+.container{
+
+    width: 100%;
+    height: 100%;
+    background-color: rgb(225, 171, 215);
+}
+
+.container .card{
+
+    width: 50%;
+    height: 50%;
+    background-color: aliceblue;
+    margin: auto;
+}
